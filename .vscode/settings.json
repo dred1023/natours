@@ -1,0 +1,11 @@
+{
+  "eslint.trace.server": "off",
+  "eslint.probe": [
+    "javascriptreact",
+    "typescript",
+    "typescriptreact",
+    "html",
+    "vue",
+    "markdown"
+  ]
+}
